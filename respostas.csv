@@ -1,0 +1,121 @@
+Pergunta,Resposta
+"1. Qual é o seu peso atual?""",a
+"2.  Qual é a sua altura atual? """,
+"3. Você já teve alguma doença crônica, como diabetes ou hipertensão? """,a
+"4. Com que frequência você realiza exames de rotina para avaliar sua saúde? """,
+"5. Você fuma? """,
+"6. Com que frequência você consome bebidas alcoólicas? """,
+"7. Você segue uma dieta saudável e balanceada? """,a
+"8. Com que frequência você pratica atividade física? """,a
+".   Você costuma ter uma boa qualidade de sono? """,a
+"10. Como você se sente em relação à sua saúde geral? """,a
+"11. Com que frequência você se sente triste ou deprimido? """,
+"12. Você já foi diagnosticado com alguma doença mental, como depressão ou ansiedade? """,a
+"13. Com que frequência você se sente ansioso ou estressado? """,
+"14. Com que frequência você se sente feliz e satisfeito com a vida? """,
+"15. Com que frequência você se sente cansado e sem energia? """,a
+"16. Com que frequência você tem problemas para dormir? """,a
+"17. Com que frequência você se sente irritado ou frustrado? """,a
+"18. Com que frequência você se sente motivado e animado para fazer as coisas? """,a
+"19.Você já considerou procurar ajuda profissional para problemas de saúde mental? """,a
+"20.Você se sente confortável em compartilhar seus sentimentos e emoções com outras pessoas? """,
+"21. Com que frequência você se encontra com amigos ou familiares? """,a
+"22. Com que frequência você se comunica com amigos ou familiares que moram longe? """,
+"23. Com que frequência você participa de atividades em grupo, como festas ou reuniões sociais? """,
+"24. Você se sente confortável ao conhecer novas pessoas? """,
+"25. Você tem amigos ou familiares que você pode confiar e conversar sobre assuntos pessoais? """,
+"26. Com que frequência você se sente sozinho ou isolado socialmente? """,
+"27. Você se sente parte de uma comunidade ou grupo social? """,
+"28. Você tem um parceiro amoroso com quem pode contar? """,
+"29. Você acha fácil se comunicar com outras pessoas? """,
+"30. Você sente que tem um equilíbrio saudável entre o tempo gasto com amigos/família e o tempo dedicado a si mesmo? """,
+"31. Qual é a sua renda mensal? """,
+"32. Você tem dívidas atualmente? """,
+"33. Você tem um emprego atualmente? """,
+"34. Você tem um plano de aposentadoria? """,
+"35. Qual é o seu nível de educação? """,
+"36. Você tem acesso a serviços de saúde? """,
+"37. Você tem um carro? a) Sim, próprio e pago """,
+"38. Qual é o seu padrão de moradia atual? """,a
+"39. Você tem acesso a internet em casa? """,a
+"40. Qual foi a sua última viagem de férias? """,a
+"41. Qual é o tipo de habitação onde você mora? """,a
+"42. Qual é a sua satisfação com a localização da sua habitação? """,a
+"43. Qual é a sua satisfação com o tamanho da sua habitação? """,
+"44. Como é a iluminação na sua habitação? """,
+"45. Como é a ventilação na sua habitação? """,
+"46. Como é a temperatura na sua habitação? """,
+"47. Como é a segurança na sua habitação? """,
+"48. Como é o ruído na sua habitação? """,a
+"49. Qual é a qualidade do ar na sua habitação? """,a
+"50. Como é o acesso aos serviços básicos na sua área de moradia? """,a
+"51. Qual é o seu nível de escolaridade? """,
+"52. Você tem algum curso técnico ou profissionalizante? """,a
+"53. Qual é o seu nível de habilidade em informática? """,
+"54. Você tem conhecimento em algum idioma estrangeiro? """,a
+"55. Qual é o seu nível de habilidade em comunicação oral? """,a
+"56. Qual é o seu nível de habilidade em comunicação escrita? """,
+"57. Você tem habilidades em artes, como música, teatro ou dança? """,a
+"58. Qual é o seu nível de habilidade em matemática? """,
+"59. Qual é o seu nível de habilidade em liderança e gestão de equipe? """,
+"60. Você tem habilidades em alguma área específica, como culinária, marcenaria ou costura? """,
+"61. Você já foi vítima de algum tipo de violência (roubo, assalto, agressão) nos últimos 12 meses? """,
+"62. Você se sente seguro(a) ao caminhar em sua rua ou bairro? """,
+"63. Você já presenciou algum ato de violência em seu bairro ou região? """,a
+"64. Você conhece seus vizinhos? """,
+"65. Há policiamento regular em sua rua ou bairro? """,
+"66. Você tem medo de ser vítima de um crime violento? """,
+"67. Sua casa tem sistema de segurança (alarme, câmeras de vigilância, etc.)? """,
+"68. Você costuma tomar medidas de precaução para evitar ser vítima de um crime (ex. evitar andar sozinho à noite, trancar portas e janelas, etc.)? """,
+"69. Você se sente seguro(a) em espaços públicos, como parques e praças? """,
+"70. Você já participou de programas de educação ou prevenção de violência em sua comunidade? """,
+"71. Quantas vezes por semana você consome frutas frescas? """,
+"72. Quantas vezes por semana você consome verduras e legumes? """,
+"73. Você consome alimentos ricos em gordura (ex. frituras, fast food, embutidos) com que frequência? """,
+"74. Você consome alimentos industrializados (ex. biscoitos, salgadinhos, refrigerantes) com que frequência? """,
+"75. Você consome carne vermelha com que frequência? """,
+"76. Você consome peixe com que frequência? """,
+"77. Você consome laticínios com que frequência? """,
+"78. Com que frequência você consome alimentos ricos em açúcar (ex. doces, sorvetes, açúcar refinado)? """,
+"79. Quantos copos de água(300ml) você bebe por dia, em média? """,a
+"80. Você tem alguma restrição alimentar por motivo de saúde ou dieta? """,a
+"81. Você está satisfeito com a sua remuneração atual? """,
+"82. Você tem acesso a benefícios como plano de saúde, vale-refeição, vale-transporte, entre outros? """,
+"83. uantas horas por dia você trabalha, em média? """,
+"84.  Você tem flexibilidade de horários ou de trabalho remoto? """,
+"85. Você considera que possui as ferramentas e recursos necessários para desempenhar seu trabalho adequadamente? """,
+"86. Como você avalia o seu relacionamento com seus colegas de trabalho? """,a
+"87. Você considera que seu trabalho é estressante? """,a
+"88.Você sente que tem oportunidades de crescimento e desenvolvimento na empresa? """,
+"89.Você se sente valorizado pela empresa e pelos seus superiores?""",
+"90. Você está satisfeito com a sua carreira atual? """,
+"91. Com que frequência você pratica atividades de lazer? """,a
+"92. Qual o tipo de atividade de lazer que você mais gosta? """,a
+"93. Você tem tempo suficiente para se dedicar a atividades de lazer? """,a
+"94. Você tem recursos financeiros suficientes para realizar as atividades de lazer que gostaria? """,
+"95. Você se sente motivado e energizado após praticar atividades de lazer? """,
+"96. Você costuma praticar atividades de lazer em grupo ou sozinho? """,
+"97. Você considera que as atividades de lazer que pratica são saudáveis e benéficas para a sua saúde física e mental? """,aa
+"98. Você já experimentou alguma nova atividade de lazer nos últimos meses? """,
+"99. Qual a última atividade de lazer que você praticou? """,
+"100. Você acredita que as atividades de lazer são importantes para a sua qualidade de vida? """,
+"101. Você tem uma crença ou religião em que se baseia sua espiritualidade? """,a
+"102.Com que frequência você se dedica a práticas espirituais, como oração, meditação, leitura de textos sagrados, entre outras? """,a
+"103. Você já teve alguma experiência que considerou espiritual? """,a
+"104. Você acredita que a espiritualidade pode ajudar a melhorar sua saúde física e mental? """,
+") Não acredito que a espiritualidade tenha influência sobre minha saúde""",
+"106. Como a sua espiritualidade influencia suas decisões e escolhas na vida? """,
+"107. Você tem alguma prática espiritual que te ajuda a lidar com momentos difíceis? """,
+"108.Qual é a sua visão sobre a relação entre espiritualidade e felicidade? """,a
+"109. Você já teve alguma crise espiritual? Como lidou com ela? """,a
+"110. Como você define sua espiritualidade? """,
+"111. Com que frequência você dedica seu tempo livre a atividades que considera produtivas? """,
+"112. Qual é o tipo de atividade produtiva que você mais gosta de fazer durante o seu tempo livre? """,
+"113. Você acredita que a prática de atividades produtivas durante o seu tempo livre pode trazer benefícios para a sua vida pessoal e profissional? """,
+"114. Com que frequência você se desafia a desenvolver novas habilidades ou aprender algo novo? """,
+"115. Qual é a sua opinião sobre a importância do tempo livre para a saúde mental e física? """,
+"116. Como você escolhe as atividades produtivas que fará durante o seu tempo livre? """,
+"117. Você acredita que a prática de atividades produtivas pode ser um antídoto para o tédio e a apatia? """,a
+"118. Qual é a sua opinião sobre a relação entre o tempo livre produtivo e a qualidade de vida? """,a
+"119. Como você organiza o seu tempo livre para garantir que consiga se dedicar a atividades produtivas? """,
+"120. Você tem alguma meta ou projeto pessoal que deseja alcançar durante o seu tempo livre? """,
