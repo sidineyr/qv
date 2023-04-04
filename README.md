@@ -20,28 +20,28 @@ physical disabilities, as well as regular physical exercise.
 **Mental health:** Mental health is also an important factor in quality of life. Indicators such as depression, anxiety, stress, emotional well-being, 
 and happiness are some of the variables that can be considered in the assessment.
 
-**Social relationships: Social relationships are important for quality of life. Having a strong and satisfactory social support system can help 
+**Social relationships:** Social relationships are important for quality of life. Having a strong and satisfactory social support system can help 
 promote emotional well-being and reduce the risk of mental illnesses.
 
-**Economic conditions: Economic conditions can have a significant impact on quality of life, including access to resources and financial opportunities.
+**Economic conditions:** Economic conditions can have a significant impact on quality of life, including access to resources and financial opportunities.
 
-**Physical environment: The quality of the physical environment in which a person lives, including air, water, and housing quality, can affect physical and 
+**Physical environment:** The quality of the physical environment in which a person lives, including air, water, and housing quality, can affect physical and 
 mental health.
 
-**Education and skills: Education and skills can affect quality of life in various ways, including obtaining higher-paying jobs and better career 
+**Education and skills:** Education and skills can affect quality of life in various ways, including obtaining higher-paying jobs and better career 
 opportunities.
 
-**Safety: Personal and public safety is an important factor in quality of life, including safety in the workplace, school, and at home.
+**Safety:** Personal and public safety is an important factor in quality of life, including safety in the workplace, school, and at home.
 
-**Nutrition: The quality of food and adequate nutrient intake are important factors for physical and mental health.
+**Nutrition:** The quality of food and adequate nutrient intake are important factors for physical and mental health.
 
-**Work: Satisfactory work with adequate conditions and opportunities for professional growth can positively influence quality of life.
+**Work:** Satisfactory work with adequate conditions and opportunities for professional growth can positively influence quality of life.
 
-**Leisure: Having time for leisure activities and hobbies can help reduce stress and promote emotional well-being.
+**Leisure:** Having time for leisure activities and hobbies can help reduce stress and promote emotional well-being.
 
-**Spirituality: Religious or spiritual practices can provide a source of comfort and emotional support for many people, which can improve quality of life.
+**Spirituality:** Religious or spiritual practices can provide a source of comfort and emotional support for many people, which can improve quality of life.
 
-**Productive leisure: Having time for creative and productive activities outside of work can help increase self-esteem and promote a sense of personal achievement.
+**Productive leisure:** Having time for creative and productive activities outside of work can help increase self-esteem and promote a sense of personal achievement.
 
 North America:
 
