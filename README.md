@@ -42,4 +42,41 @@ Spirituality: Religious or spiritual practices can provide a source of comfort a
 
 Productive leisure: Having time for creative and productive activities outside of work can help increase self-esteem and promote a sense of personal achievement.
 
+North America:
 
+    Happiness Research Institute - Copenhagen, Denmark - Chief: Meik Wiking
+    The Greater Good Science Center - Berkeley, California, USA - Chief: Dacher Keltner
+    The Centre for Bhutan Studies & GNH Research - Bhutan - Chief: Dasho Karma Ura
+    The Positive Psychology Center - University of Pennsylvania, USA - Chief: Martin Seligman
+
+South America:
+
+    Instituto de Felicidade - Brazil - Chief: Ana Maria Rossi
+    The Happy CFO - Argentina - Chief: Francesco Corea
+    The Latin American Network for Well-being and Quality of Life - Chief: Luis Carlos Orozco
+
+Europe:
+
+    The World Database of Happiness - Erasmus University, Rotterdam, Netherlands - Chief: Ruut Veenhoven
+    The UK Network of Wellbeing - UK - Chief: Roger Steare
+    The Center for Well-being Research and Education - Spain - Chief: Felipe Martín
+
+Asia:
+
+    The Happiness and Well-being Research Laboratory - Seoul National University, South Korea - Chief: Sunghyun Hong
+    The Gross National Happiness Centre - Bhutan - Chief: Dr. Saamdu Chetri
+    The Happiness Research Institute Asia - Thailand - Chief: Bancha Srikacha
+
+Africa:
+
+    African Centre for the Constructive Resolution of Disputes - South Africa - Chief: Vasu Gounden
+    The African Happiness Project - South Africa - Chief: Linda Cooper
+    Institute for Economic and Social Research - Ethiopia - Chief: Alemayehu Geda
+
+Australia/Oceania:
+
+    The Australian Centre on Quality of Life - Deakin University, Australia - Chief: Robert A. Cummins
+    The New Zealand Well-being Research Institute - New Zealand - Chief: Girol Karacaoglu
+    The Asia-Pacific Centre for Complex Real Property Rights - Australia - Chief: Alex Gardner
+
+Please note that this is not an exhaustive list and there are many other institutions and researchers studying happiness around the world.
