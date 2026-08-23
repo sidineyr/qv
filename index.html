@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Questionário Quality View sobre bem-estar e qualidade de vida.">
+  <title>Quality View — Questionário</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Quality View — início">
+      <span class="brand-mark" aria-hidden="true">QV</span>
+      <span>Quality View</span>
+    </a>
+    <nav aria-label="Navegação principal">
+      <a class="nav-link active" href="index.html">Responder</a>
+      <a class="nav-link" href="dashboard.html">Resultados</a>
+    </nav>
+  </header>
+
+  <main id="app" class="page-shell">
+    <section id="welcome" class="welcome-card" aria-labelledby="welcome-title">
+      <div class="eyebrow">Uma pausa para se perceber</div>
+      <h1 id="welcome-title">Como está a sua qualidade de vida hoje?</h1>
+      <p class="lead">Responda a 24 perguntas simples e receba uma visão clara sobre seis dimensões do seu bem-estar.</p>
+      <div class="feature-row" aria-label="Informações do questionário">
+        <span>⏱ 4 minutos</span><span>◉ Respostas privadas</span><span>↻ Salvo automaticamente</span>
+      </div>
+      <div class="privacy-note">
+        <strong>Seus dados ficam com você.</strong>
+        <span>As respostas são armazenadas apenas neste navegador e não são enviadas para servidores.</span>
+      </div>
+      <label class="consent-row">
+        <input id="consent" type="checkbox">
+        <span>Entendi como meus dados serão usados e quero continuar.</span>
+      </label>
+      <button id="start-button" class="primary-button" type="button" disabled>Começar questionário <span aria-hidden="true">→</span></button>
+      <button id="resume-button" class="text-button hidden" type="button">Continuar de onde parei</button>
+    </section>
+
+    <section id="survey" class="survey-card hidden" aria-live="polite">
+      <div class="survey-topline">
+        <button id="exit-button" class="icon-button" type="button" aria-label="Voltar ao início">←</button>
+        <div class="progress-copy"><span id="dimension-label"></span><span id="progress-label"></span></div>
+      </div>
+      <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="24" aria-valuenow="0" aria-label="Progresso do questionário">
+        <div id="progress-bar" class="progress-bar"></div>
+      </div>
+      <form id="question-form">
+        <fieldset>
+          <legend id="question-text"></legend>
+          <p id="question-help" class="question-help">Escolha a alternativa que melhor representa seu momento atual.</p>
+          <div id="options" class="options-grid"></div>
+        </fieldset>
+        <div class="survey-actions">
+          <button id="back-button" class="secondary-button" type="button">Voltar</button>
+          <button id="next-button" class="primary-button" type="submit" disabled>Continuar</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="complete" class="welcome-card hidden" aria-labelledby="complete-title">
+      <div class="success-mark" aria-hidden="true">✓</div>
+      <div class="eyebrow">Questionário concluído</div>
+      <h1 id="complete-title">Sua visão está pronta.</h1>
+      <p class="lead">Veja seus resultados por dimensão e descubra onde está seu melhor equilíbrio — e onde pode cuidar um pouco mais de você.</p>
+      <a class="primary-button button-link" href="dashboard.html">Ver meus resultados <span aria-hidden="true">→</span></a>
+      <button id="restart-button" class="text-button" type="button">Responder novamente</button>
+    </section>
+  </main>
+
+  <footer>Quality View · Uma leitura de bem-estar, não um diagnóstico.</footer>
+  <script src="app.js"></script>
+</body>
+</html>
+
