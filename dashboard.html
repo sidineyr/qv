@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dashboard de resultados do Quality View.">
+  <title>Quality View — Resultados</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">QV</span><span>Quality View</span></a>
+    <nav aria-label="Navegação principal"><a class="nav-link" href="index.html">Responder</a><a class="nav-link active" href="dashboard.html">Resultados</a></nav>
+  </header>
+
+  <main class="dashboard-shell">
+    <section class="dashboard-heading">
+      <div><div class="eyebrow">Seu panorama</div><h1>Resultados de bem-estar</h1><p id="result-date" class="muted"></p></div>
+      <div class="dashboard-actions"><button id="export-button" class="secondary-button" type="button">Exportar CSV</button><a class="primary-button button-link" href="index.html">Nova resposta</a></div>
+    </section>
+
+    <section id="empty-state" class="welcome-card hidden">
+      <div class="empty-illustration" aria-hidden="true">○</div><h2>Ainda não há resultados</h2>
+      <p class="lead">Conclua o questionário para visualizar seu panorama de qualidade de vida.</p>
+      <a class="primary-button button-link" href="index.html">Responder agora</a>
+    </section>
+
+    <div id="dashboard-content" class="hidden">
+      <section class="summary-grid">
+        <article class="score-card accent-card"><span class="card-label">Índice geral</span><div><strong id="overall-score">—</strong><small>/ 100</small></div><p id="overall-label"></p></article>
+        <article class="score-card"><span class="card-label">Maior equilíbrio</span><strong id="best-dimension">—</strong><p id="best-copy"></p></article>
+        <article class="score-card"><span class="card-label">Ponto de atenção</span><strong id="attention-dimension">—</strong><p id="attention-copy"></p></article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel"><div class="panel-heading"><div><span class="card-label">Visão geral</span><h2>Equilíbrio por dimensão</h2></div></div><div id="dimension-bars" class="dimension-bars"></div></article>
+        <article class="panel insight-panel"><span class="card-label">Leitura personalizada</span><h2 id="insight-title"></h2><p id="insight-copy"></p><div id="suggestions" class="suggestions"></div></article>
+      </section>
+
+      <section class="panel history-panel"><div class="panel-heading"><div><span class="card-label">Evolução</span><h2>Histórico de respostas</h2></div><button id="clear-button" class="danger-link" type="button">Apagar meus dados</button></div><div id="history" class="history-list"></div></section>
+      <p class="disclaimer">Este resultado é informativo e não substitui avaliação médica, psicológica ou profissional.</p>
+    </div>
+  </main>
+  <footer>Quality View · Seus dados permanecem neste navegador.</footer>
+  <script src="questions.js"></script><script src="dashboard.js"></script>
+</body>
+</html>
+
