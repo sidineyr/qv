@@ -22,3 +22,7 @@ O site é compatível com GitHub Pages e não exige etapa de build.
 
 O Quality View é um projeto independente. A menção às tecnologias utilizadas não representa patrocínio, parceria formal ou aprovação institucional do conteúdo.
 
+## Contador de acessos
+
+A página inicial exibe um badge público de acessos fornecido pelo Visitor Badge. Ele contabiliza carregamentos da página, não visitantes únicos, e não tem acesso às respostas armazenadas localmente pelo QV.
+
