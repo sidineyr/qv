@@ -48,6 +48,7 @@
     <nav aria-label="Navegação principal">
       <a class="nav-link active" href="index.html">Responder</a>
       <a class="nav-link" href="dashboard.html">Resultados</a>
+      <a class="nav-link" href="#creditos">Autoria</a>
     </nav>
   </header>
 
@@ -102,7 +103,28 @@
     </section>
   </main>
 
-  <footer>Quality View · Uma leitura de bem-estar, não um diagnóstico.</footer>
+  <section id="creditos" class="credits-section" aria-labelledby="credits-title">
+    <div class="credits-shell">
+      <div class="eyebrow">AUTORIA E CRÉDITOS</div>
+      <h2 id="credits-title">Um projeto dirigido por pessoas, apoiado por tecnologia.</h2>
+      <p class="credits-intro">O Quality View é uma iniciativa independente voltada à reflexão educativa sobre qualidade de vida, com privacidade por padrão.</p>
+      <div class="credits-grid">
+        <article class="credit-card">
+          <span class="credit-mark sidiney-mark" aria-hidden="true">SR</span>
+          <div><span class="credit-role">IDEALIZAÇÃO E DIREÇÃO</span><h3>Sidiney Rodrigues</h3><p>Idealizou o projeto, definiu sua proposta, seus objetivos e as decisões editoriais. A orientação e a evolução do Quality View permanecem sob direção humana.</p>
+          <div class="credit-links"><a href="https://www.linkedin.com/in/sidineyrodrigues/?locale=pt" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="https://github.com/sidineyr" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://github.com/sidineyr/qv" target="_blank" rel="noopener noreferrer">Código-fonte</a></div></div>
+        </article>
+        <article class="credit-card">
+          <span class="credit-mark openai-mark" aria-hidden="true">OpenAI</span>
+          <div><span class="credit-role">DESENVOLVIMENTO ASSISTIDO</span><h3>OpenAI Codex</h3><p>Apoiou arquitetura, programação, experiência, acessibilidade, testes e documentação, sob orientação, revisão e decisão editorial de Sidiney Rodrigues.</p>
+          <div class="credit-links"><a href="https://developers.openai.com/codex/" target="_blank" rel="noopener noreferrer">Conhecer o Codex</a></div></div>
+        </article>
+      </div>
+      <p class="independence-note"><strong>Independência editorial.</strong> A menção a tecnologias reconhece as contribuições utilizadas no desenvolvimento e não representa patrocínio, parceria formal ou aprovação institucional do conteúdo.</p>
+    </div>
+  </section>
+
+  <footer>Quality View · Idealizado por <a href="#creditos">Sidiney Rodrigues</a> · Uma leitura de bem-estar, não um diagnóstico.</footer>
   <script src="app.js"></script>
 </body>
 </html>
