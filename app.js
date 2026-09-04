@@ -57,6 +57,7 @@ function initialise() {
     const history = JSON.parse(localStorage.getItem("qv-results") || "[]");
     history.push({ id: Date.now(), date: new Date().toISOString(), answers, scores: calculateScores(answers) });
     localStorage.setItem("qv-results", JSON.stringify(history)); localStorage.removeItem("qv-draft");
+    window.QVCounter?.recordCompletion();
     survey.classList.add("hidden"); complete.classList.remove("hidden");
   }
 }

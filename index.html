@@ -60,6 +60,10 @@
       <div class="feature-row" aria-label="Informações do questionário">
         <span>⏱ 4 minutos</span><span>◉ Respostas privadas</span><span>↻ Salvo automaticamente</span>
       </div>
+      <div id="completion-counter" class="completion-counter" aria-live="polite" hidden>
+        <strong id="completion-total">Carregando participações…</strong>
+        <small>Conclusões registradas pelo QV. Uma pessoa pode participar mais de uma vez; apenas visitar a página não aumenta o contador.</small>
+      </div>
       <div class="privacy-note">
         <strong>Seus dados ficam com você.</strong>
         <span>As respostas são armazenadas apenas neste navegador e não são enviadas para servidores.</span>
@@ -125,6 +129,8 @@
   </section>
 
   <footer>Quality View · Idealizado por <a href="#creditos">Sidiney Rodrigues</a> · Uma leitura de bem-estar, não um diagnóstico.</footer>
+  <script src="counter-config.js"></script>
+  <script src="counter.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
