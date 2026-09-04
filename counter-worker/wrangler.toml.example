@@ -1,8 +1,0 @@
-name = "qv-completion-counter"
-main = "src/index.js"
-compatibility_date = "2026-09-04"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "qv-completion-counter"
-database_id = "SUBSTITUA_PELO_ID_DO_D1"
