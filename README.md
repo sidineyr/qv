@@ -15,6 +15,10 @@ As respostas ficam apenas no `localStorage` do navegador. Nenhuma informação �
 
 O site é compatível com GitHub Pages e não exige etapa de build.
 
+## Ferramentas de apoio
+
+O arquivo `convertquestionario.py` converte rascunhos numerados em TXT para JSON sem alterar o questionário publicado. Exemplo: `python convertquestionario.py rascunho.txt -o rascunho.json`. Testes do conversor: `python -m unittest discover -s tests -v`.
+
 ## Autoria e créditos
 
 - Idealização, direção e decisões editoriais: **Sidiney Rodrigues**.
