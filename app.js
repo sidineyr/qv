@@ -11,7 +11,7 @@ function initialise() {
   const consent = $("consent"), start = $("start-button"), resume = $("resume-button");
   const form = $("question-form"), options = $("options"), next = $("next-button");
   let current = 0;
-  let answers = JSON.parse(localStorage.getItem("qv-draft") || "{}");
+  let answers = loadStoredValue("qv-draft", {}, value => value !== null && typeof value === "object" && !Array.isArray(value));
   const hasDraft = Object.keys(answers).length > 0 && Object.keys(answers).length < QUESTIONS.length;
 
   consent.addEventListener("change", () => start.disabled = !consent.checked);
@@ -54,7 +54,7 @@ function initialise() {
     setTimeout(() => $("question-text").focus?.(), 0);
   }
   function finish() {
-    const history = JSON.parse(localStorage.getItem("qv-results") || "[]");
+    const history = loadStoredValue("qv-results", [], Array.isArray);
     history.push({ id: Date.now(), date: new Date().toISOString(), answers, scores: calculateScores(answers) });
     localStorage.setItem("qv-results", JSON.stringify(history)); localStorage.removeItem("qv-draft");
     survey.classList.add("hidden"); complete.classList.remove("hidden");
