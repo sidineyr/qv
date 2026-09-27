@@ -1,5 +1,5 @@
 /* global DIMENSIONS */
-const history = JSON.parse(localStorage.getItem("qv-results") || "[]");
+const history = loadStoredValue("qv-results", [], Array.isArray);
 const $ = id => document.getElementById(id);
 
 if (!history.length) {
