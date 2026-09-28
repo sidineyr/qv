@@ -1,5 +1,7 @@
 # Quality View
 
+🌐 **Site publicado:** https://sidineyr.github.io/qv/
+
 Aplicação web estática para responder e visualizar um questionário de qualidade de vida.
 
 ## Páginas
